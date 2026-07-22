@@ -21,7 +21,8 @@ This project is an interactive Netflix Dashboard built using Power BI. It analyz
 Netflix Titles Dataset (included in this repository)
 
 ## 📷 Dashboard Preview
-(Add your dashboard screenshots here after uploading them.)
+dashboard-overview.png
+
 
 ## 📌 Key Insights
 - Movies make up most of the Netflix content.
